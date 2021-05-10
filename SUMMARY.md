@@ -5,6 +5,8 @@
   * [Team](general/team.md)
 * [LDFI Tokenomics](tokenomics.md)
 * [Roadmap](roadmap.md)
+* [Community Updates](community-update/README.md)
+  * [20210510 Community Update](community-update/20210510-community-update.md)
 * [Rewards](rewards.md)
 * [Contracts & Addresses](contract-addresses.md)
 * [Audits](audits.md)
