@@ -1,8 +1,8 @@
 # Roadmap
 
-![](.gitbook/assets/lendefi-roadmap-new.jpg)
+![](.gitbook/assets/roadmap-01-1-.jpg)
 
-## **Q4 2020** <a id="c499"></a>
+## **Q4 2020**
 
 _**Idea Conceptualization**_
 
