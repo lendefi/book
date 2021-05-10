@@ -1,0 +1,19 @@
+# Table of contents
+
+* [Introducing Lendefi Finance](README.md)
+* [General](general/README.md)
+  * [Team](general/team.md)
+* [LDFI Tokenomics](tokenomics.md)
+* [Roadmap](roadmap.md)
+* [Rewards](rewards.md)
+* [Contracts & Addresses](contract-addresses.md)
+* [Audits](audits.md)
+* [How-To Guides](how-to-guides/README.md)
+  * [Create BSC Metamask Wallet](how-to-guides/create-bsc-metamask-wallet.md)
+  * [ETH to BSC Bridge](how-to-guides/eth-to-bsc-bridge.md)
+* [Where to buy LDFI](where-to-buy-ldif.md)
+* [Telegram](https://telegram.lendefi.finance)
+* [Medium](https://lendefi.medium.com/)
+* [Whitepaper](https://whitepaper.lendefi.finance)
+* [Linktree](https://linktr.ee/lendefi)
+
