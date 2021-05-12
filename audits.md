@@ -6,9 +6,9 @@
 
 ## LDFI ERC20
 
-**LDFI ERC20:** [Johnwick](https://johnwick.io/verify/30bb86afa906bb7f61defc67913223b4)  
+**LDFI ERC20:** [Johnwick](https://github.com/lendefi/audits/blob/79a6786db7dc33167e8085a2383ac0437ad42596/Lendefi%20Token%20%28LDFI%29%20Audit%20Report.pdf)  
   
-**LDFI Vesting:** [Johnwick](https://lendefi-io-docs.s3-ap-southeast-2.amazonaws.com/LendefiTokenVesting+Audit+Report.pdf)
+**LDFI Vesting:** [Johnwick](https://github.com/lendefi/audits/blob/79a6786db7dc33167e8085a2383ac0437ad42596/LendefiTokenVesting%20Audit%20Report.pdf)
 
   
 
