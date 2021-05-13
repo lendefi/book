@@ -2,9 +2,9 @@
 
 ## Binance Smart Chain Network
 
-[JulSwap](https://julswap.lendefi.finance)
-
 [PancakeSwap](https://pancakeswap.lendefi.finance)
+
+[JulSwap](https://julswap.lendefi.finance)
 
 ## **Ethereum** Network
 
