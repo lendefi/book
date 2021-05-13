@@ -49,7 +49,7 @@ Unlock date: 26 Aug 2021
 
 ## PancakeSwap Liquidity Provisioning <a id="6886"></a>
 
-70,000 LDFI \| 50,000 BUSD \(equivalent in BNB\)   
+70,000 LDFI \| 50,000 BUSD \(equivalent in CAKE\)   
   
 LP token contract [BSCScan](https://bscscan.com/address/0x4219c64218aa71f0ba3a9d4ae35633ad99a47bc7)  
   
