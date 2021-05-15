@@ -10,7 +10,7 @@ Winners will be drawn by a random generation method with transparency given.
   
 **Prizes will be split into the following tiers:**
 
-🥇 1 lucky contestant will win the first prize of 10,000 LDFI tokens!  
+🥇 **1** lucky contestant will win the first prize of 10,000 LDFI tokens!  
 🥈 2 winners will receive 1,000 LDFI tokens each!  
 🥉 20 winners will win 100 LDFI tokens!  
 🏅 120 will receive prizes of 50 LDFI tokens! 
