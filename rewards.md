@@ -7,17 +7,15 @@ Lendefi is excited to announce we are giving away 20,000 LDFI tokens to lucky wi
 Our competition is taking place in conjunction with Lendefi’s recent listing on the [Julswap](https://julswap.lendefi.finance/) platform. 
 
 Winners will be drawn by a random generation method with transparency given.   
-Prizes will be split into the following tiers:
+  
+**Prizes will be split into the following tiers:**
 
-🥇 1 lucky contestant will win the first prize of 10,000 LDFI tokens!
-
-🥈 2 winners will receive 1,000 LDFI tokens each!
-
-🥉 20 winners will win 100 LDFI tokens!
-
+🥇 1 lucky contestant will win the first prize of 10,000 LDFI tokens!  
+🥈 2 winners will receive 1,000 LDFI tokens each!  
+🥉 20 winners will win 100 LDFI tokens!  
 🏅 120 will receive prizes of 50 LDFI tokens! 
 
-To participate in this exciting competition simply:
+**To participate in this exciting competition simply:**
 
 0️⃣ You must have purchased a minimum 100 LDFI BEP-20 at[ PancakeSwap](https://pancakeswap.lendefi.finance/) or[ Julswap  
 ](https://julswap.lendefi.finance/)1️⃣ Join our[ Global Telegram group  
@@ -26,7 +24,8 @@ To participate in this exciting competition simply:
 4️⃣ Sign up to the[ WHITELIST](https://whitelist.lendefi.finance/) by May 30th 23:59 UTC ✅  
 5️⃣ Hold the 100 LDFI BEP-20 Tokens used for entry until the airdrop
 
-**All token holders are entitled to enter for a second chance to win in this competition. You can do so by:**
+**All token holders are entitled to enter for a second chance to win in this competition.   
+You can do so by:**
 
 6️⃣ You must have purchased a minimum 200 LDFI BEP-20 via[ Julswap](https://julswap.lendefi.finance/)\|  
 7️⃣ Inviting a 2nd friend to join our[ Global Telegram group  
@@ -37,7 +36,7 @@ To participate in this exciting competition simply:
 
 We wish each of you the best of luck in winning one of these prizes!
 
-Keep Supporting ❤️
+Keep Supporting ❤️ If you need help, ask [here](https://telegram.lendefi.finance/).
 
 ## \*ENDED\* 10% Migration Bonus! The BSC Bridge is OPEN! 🚀🚀
 
