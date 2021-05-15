@@ -2,7 +2,7 @@
 
 ## **Lendefi token holder 20,000 LDFI Prize Pool!**
 
-Lendefi is excited to announce we are giving away 20,000 LDFI tokens to lucky winners in our new prize pool. A total of 143 winners will be drawn and there are 2 chances for each token holder to win. 
+Lendefi is excited to announce we are giving away **20,000 LDFI** tokens to lucky winners in our new prize pool. A total of **143** winners will be drawn and there are **2** chances for each token holder to win. 
 
 Our competition is taking place in conjunction with Lendefi’s recent listing on the [Julswap](https://julswap.lendefi.finance/) platform. 
 
@@ -10,10 +10,10 @@ Winners will be drawn by a random generation method with transparency given.
   
 **Prizes will be split into the following tiers:**
 
-🥇 **1** lucky contestant will win the first prize of 10,000 LDFI tokens!  
-🥈 2 winners will receive 1,000 LDFI tokens each!  
-🥉 20 winners will win 100 LDFI tokens!  
-🏅 120 will receive prizes of 50 LDFI tokens! 
+🥇 **1** lucky contestant will win the first prize of **10,000 LDFI** tokens!  
+🥈 **2** winners will receive **1,000 LDFI** tokens each!  
+🥉 **20** winners will win **100 LDFI** tokens!  
+🏅 **120** will receive prizes of **50 LDFI** tokens! 
 
 **To participate in this exciting competition simply:**
 
