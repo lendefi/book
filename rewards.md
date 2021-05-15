@@ -17,20 +17,20 @@ Winners will be drawn by a random generation method with transparency given.
 
 **To participate in this exciting competition simply:**
 
-0️⃣ You must have purchased a minimum 100 LDFI BEP-20 at[ PancakeSwap](https://pancakeswap.lendefi.finance/) or[ Julswap  
+0️⃣ You must have purchased a minimum **100 LDFI BEP-20** at[ PancakeSwap](https://pancakeswap.lendefi.finance/) or[ Julswap  
 ](https://julswap.lendefi.finance/)1️⃣ Join our[ Global Telegram group  
 ](https://telegram.lendefi.finance/)2️⃣ Invite a friend to join our[ Global Telegram group  
 ](https://telegram.lendefi.finance/)3️⃣ Share a post about this offer on Twitter or Facebook  
-4️⃣ Sign up to the[ WHITELIST](https://whitelist.lendefi.finance/) by May 30th 23:59 UTC ✅  
-5️⃣ Hold the 100 LDFI BEP-20 Tokens used for entry until the airdrop
+4️⃣ Sign up to the[ WHITELIST](https://whitelist.lendefi.finance/) by **May 30th 23:59 UTC** ✅  
+5️⃣ Hold the **100 LDFI BEP-20** Tokens used for entry until the airdrop
 
 **All token holders are entitled to enter for a second chance to win in this competition.   
 You can do so by:**
 
-6️⃣ You must have purchased a minimum 200 LDFI BEP-20 via[ Julswap](https://julswap.lendefi.finance/)\|  
+6️⃣ You must have purchased a minimum **200 LDFI BEP-20** via[ Julswap](https://julswap.lendefi.finance/)\|  
 7️⃣ Inviting a 2nd friend to join our[ Global Telegram group  
-](https://telegram.lendefi.finance/)8️⃣ Complete the 2nd Chance to win in[ WHITELIST](https://whitelist.lendefi.finance/) by May 30th 23:59 UTC ✅  
-9️⃣ Hold the 300 LDFI BEP-20 Tokens used for the second entry until the airdrop
+](https://telegram.lendefi.finance/)8️⃣ Complete the 2nd Chance to win in[ WHITELIST](https://whitelist.lendefi.finance/) by **May 30th 23:59 UTC** ✅  
+9️⃣ Hold the **300 LDFI BEP-20** Tokens used for the second entry until the airdrop
 
 **BEP-20 LDFI Tokens to be airdropped to winners on the 12th of June. 🚀🚀**
 
