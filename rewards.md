@@ -4,7 +4,7 @@
 
 Lendefi is excited to announce we are giving away **20,000 LDFI** tokens to lucky winners in our new prize pool. A total of **143** winners will be drawn and there are **2** chances for each token holder to win. 
 
-Our competition is taking place in conjunction with Lendefi’s recent listing on the [Julswap](https://julswap.lendefi.finance/) platform. 
+Our competition is taking place in conjunction with Lendefi’s recent listing on the [JulSwap](https://julswap.lendefi.finance/) platform. 
 
 Winners will be drawn by a random generation method with transparency given.   
   
@@ -17,7 +17,7 @@ Winners will be drawn by a random generation method with transparency given.
 
 **To participate in this exciting competition simply:**
 
-0️⃣ You must have purchased a minimum **100 LDFI BEP-20** at[ PancakeSwap](https://pancakeswap.lendefi.finance/) or[ Julswap  
+0️⃣ You must have purchased a minimum **100 LDFI BEP-20** at[ PancakeSwap](https://pancakeswap.lendefi.finance/) or[ JulSwap  
 ](https://julswap.lendefi.finance/)1️⃣ Join our[ Global Telegram group  
 ](https://telegram.lendefi.finance/)2️⃣ Invite a friend to join our[ Global Telegram group  
 ](https://telegram.lendefi.finance/)3️⃣ Share a post about this offer on Twitter or Facebook  
@@ -27,7 +27,7 @@ Winners will be drawn by a random generation method with transparency given.
 **All token holders are entitled to enter for a second chance to win in this competition.   
 You can do so by:**
 
-6️⃣ You must have purchased a minimum **200 LDFI BEP-20** via[ Julswap](https://julswap.lendefi.finance/)\|  
+6️⃣ You must have purchased a minimum **200 LDFI BEP-20** via[ JulSwap](https://julswap.lendefi.finance/)  
 7️⃣ Inviting a 2nd friend to join our[ Global Telegram group  
 ](https://telegram.lendefi.finance/)8️⃣ Complete the 2nd Chance to win in[ WHITELIST](https://whitelist.lendefi.finance/) by **May 30th 23:59 UTC** ✅  
 9️⃣ Hold the **300 LDFI BEP-20** Tokens used for the second entry until the airdrop
