@@ -6,6 +6,7 @@
 * [LDFI Tokenomics](tokenomics.md)
 * [Roadmap](roadmap.md)
 * [Community Updates](community-updates/README.md)
+  * [19 June 2021](community-updates/19-june-2021.md)
   * [10 May 2021](community-updates/10-may-2021.md)
 * [Rewards](rewards.md)
 * [Contracts & Addresses](contract-addresses.md)
