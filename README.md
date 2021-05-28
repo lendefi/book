@@ -1,5 +1,5 @@
 ---
-description: Undercollateralized secured loans on the Binance Smart Chain
+description: Leveraged trading via secured undercollateralized loans.
 ---
 
 # Introducing Lendefi Finance
