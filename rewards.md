@@ -1,6 +1,6 @@
 # Rewards
 
-## **Lendefi token holder 20,000 LDFI Prize Pool!**
+## \*ENDED\* **Lendefi token holder 20,000 LDFI Prize Pool!**
 
 Lendefi is excited to announce we are giving away **20,000 LDFI** tokens to lucky winners in our new prize pool. A total of **143** winners will be drawn and there are **2** chances for each token holder to win. 
 
