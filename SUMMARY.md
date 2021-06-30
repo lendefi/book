@@ -6,6 +6,7 @@
 * [LDFI Tokenomics](tokenomics.md)
 * [Roadmap](roadmap.md)
 * [Community Updates](community-updates/README.md)
+  * [30 June 2021](community-updates/30-june-2021.md)
   * [16 June 2021](community-updates/16-june-2021.md)
   * [9 June 2021](community-updates/9-june-2021.md)
   * [2 June 2021](community-updates/2-june-2021.md)
