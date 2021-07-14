@@ -14,7 +14,7 @@ Click "Connect Wallet". Ensure Ethereum Mainnet is selected.
   
 Your LDFI balance will now display.
 
-![](../.gitbook/assets/image%20%289%29%20%282%29.png)
+![](../.gitbook/assets/image%20%289%29%20%282%29%20%282%29.png)
 
 **Step 3: Transferring LDFI tokens**
 
