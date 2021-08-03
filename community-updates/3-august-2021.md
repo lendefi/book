@@ -2,7 +2,7 @@
 
 **The Lendefi Testnet Is Open!**
 
-Lendefi is proud to announce that our testnet has now been made public and enrolled testers can begin testing! This is an important milestone for the Lendefi protocol and represents our transition onto the final stretch towards our mainnet launch. 
+Lendefi is proud to announce that our testnet has been made public and enrolled testers can begin testing! This is an important milestone for the Lendefi protocol and represents our transition onto the final stretch towards our mainnet launch. 
 
 We encourage our community to go and view Lendefi’s testnet here:
 
@@ -12,7 +12,7 @@ The launch of Lendefi’s testnet will allow us to stress test the protocol and 
 
 The User Acceptance Testing will allow Lendefi to gauge how well the protocol is accepted by users. This is important to ensure the greatest ease of use and ensure the protocol is universally accessible and logical for the broadest user base. 
 
-Previously, we created a form for community members to register for the testing process and we were pleased to see a strong response from within our community. To effectively manage the testnet process, Lendefi will be selecting our testers from this user base. Unfortunately we do not have the capacity to allow every registrant to participate in the testnet testing. Lendefi will be contacting the first wave of testers shortly. 
+Previously, we created a form for community members to register for the testing process and we were pleased to see a strong response from within our community. To effectively manage the testnet process, Lendefi will be selecting our testers from this user base. Unfortunately, we do not have the capacity to allow every registrant to participate in the testnet testing. Lendefi will be contacting the first wave of testers shortly. 
 
 Testers will be supplied test tokens for use during testing along with feedback forms to return to Lendefi during the testing process. The tokens which will be utilized during the testing do not hold value but represent the same utility as authentic digital assets. 
 
