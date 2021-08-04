@@ -20,12 +20,6 @@
 0xcf5079de99157f8f94ad676cf23e339a14ea06d3
 ```
 
-**Liquidity Pool - Julswap:**  [BSCScan](https://bscscan.com/address/0x622300791ba3e7ae2972ab08d5abe498c8f709dc)
-
-```
-0x622300791ba3e7ae2972ab08d5abe498c8f709dc
-```
-
 ## ERC-20 LDFI
 
 **ERC-20 LDFI:** [Etherscan](https://etherscan.io/token/0x5479d565e549f3ecdbde4ab836d02d86e0d6a8c7)
