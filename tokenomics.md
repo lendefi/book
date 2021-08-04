@@ -55,11 +55,3 @@ LP token contract [BSCScan](https://bscscan.com/address/0x4219c64218aa71f0ba3a9d
   
 These LP tokens are not locked. 
 
-## Julswap Liquidity Provisioning <a id="6886"></a>
-
-70,000 LDFI \| 50,000 BUSD   
-  
-LP token contract [BSCScan](https://bscscan.com/address/0x622300791ba3e7ae2972ab08d5abe498c8f709dc)  
-  
-These LP tokens are not locked. 
-
