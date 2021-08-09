@@ -4,8 +4,6 @@
 
 [PancakeSwap](https://pancakeswap.lendefi.finance)
 
-[JulSwap](https://julswap.lendefi.finance)
-
 ## **Ethereum** Network
 
 [Uniswap](https://uniswap.lendefi.finance)

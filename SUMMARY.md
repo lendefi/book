@@ -18,6 +18,7 @@
   * [19 May 2021](community-updates/19-may-2021.md)
   * [10 May 2021](community-updates/10-may-2021.md)
 * [Rewards](rewards.md)
+* [Support](support.md)
 * [Contracts & Addresses](contract-addresses.md)
 * [Audits](audits.md)
 * [How-To Guides](how-to-guides/README.md)
