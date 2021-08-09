@@ -1,5 +1,9 @@
 # ETH to BSC Bridge
 
+**PLEASE NOTE THE BRIDGE IS CURRENTLY DOWN!**  
+  
+  
+  
 **Step 1: Ensure your Binance Smart Chain wallet is ready**  
   
 To use the bridge, you will need a Metamask wallet browser extension.

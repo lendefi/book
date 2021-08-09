@@ -28,7 +28,8 @@
 * [Medium](https://lendefi.medium.com/)
 * [Whitepaper](https://whitepaper.lendefi.finance)
 * [Linktree](https://linktr.ee/lendefi)
-* [Support](support.md)
+* [Support](support/README.md)
+  * [How to connect wallet?](support/wallets.md)
 * [Privacy](privacy.md)
 * [Terms of use](tos.md)
 
