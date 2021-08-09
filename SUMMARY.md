@@ -30,5 +30,5 @@
 * [Linktree](https://linktr.ee/lendefi)
 * [Support](support.md)
 * [Privacy](privacy.md)
-* [Untitled](untitled.md)
+* [Terms of use](tos.md)
 
