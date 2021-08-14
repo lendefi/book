@@ -8,7 +8,7 @@ The Lendefi Finance management team.
 
 ## Lead Developer
 
-[Blockchain Labs Asia](https://www.blabs.asia/) is the lead developer and blockchain specialist engineering the Lendefi Protocol. 
+[Chainsultng ](https://chainsulting.de/)is the lead developer and blockchain specialist engineering and managing the Lendefi Protocol. 
 
 ## **How can I get in touch with the team?**
 

@@ -8,7 +8,7 @@ _**Idea Conceptualization**_
 
 Lendefi was ideated in an effort to solve the over-collateralization problem with the DeFi protocols of the time. Lendefi represents the answer to a simple question: 
 
-“Why can’t people borrow to invest in crypto assets, like they can for traditional assets such as real estate, cars and stocks?”
+“Why can’t people borrow to trade in crypto assets, like they can for traditional assets such as real estate, cars and stocks?”
 
 _**Initial Fundraising**_
 
@@ -38,7 +38,7 @@ Marketing outreach programs will focus on global expansion and community buildin
 
 _**Alpha Launch**_
 
-The Alpha launch will include all crucial components of the Protocol. The alpha version will be tested to resolve any bugs and identify scope for improvement within the Protocol.
+The Alpha launch will include all crucial components of the Protocol. The alpha version will be tested to resolve any bugs and identify the scope for improvement within the Protocol.
 
 _**Bug Bounty**_
 
@@ -82,7 +82,7 @@ The governance process will launch to involve the community and token holders in
 
 _**Protocol Deployment On Additional Chains**_
 
-Developing the Lendefi Protocol for compatibility with other chains will be based on community feedback and demand for expansion. Additional chains may include Huobi Chain and EOS, amongst others. The Protocol will implement Polkadot and leverage the benefits of interoperability during the expansion phase.
+Developing the Lendefi Protocol for compatibility with other chains will be based on community feedback and demand for expansion. Additional chains may include Huobi Chain, Reef and EOS, amongst others. The Protocol will implement Polkadot and leverage the benefits of interoperability during the expansion phase.
 
 _**Scaling Implementation**_
 
