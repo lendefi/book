@@ -1,5 +1,21 @@
 # Rewards
 
+## **Lendefi $2,500 Testnet Giveaway**
+
+Lendefi is pleased to announce that we have created a giveaway to celebrate the launch of our testnet. Lendefi is giving away $2,500 in LDFI! 📣  
+
+
+250 lucky winners will be drawn at random from entrants in our Lendefi giveaway. Entrants must complete several simple tasks to qualify. These tasks are designed to raise awareness of Lendefi’s testnet and upcoming Canary mainnet release. 🏆  
+
+
+You can visit the page for our giveaway [here](https://gleam.io/r8b5J/lendefi-testnet-giveaway).  
+
+
+To assist our community to support our giveaway we created this [Tweet](https://twitter.com/lendefi_io/status/1426496768045457415%20).  
+We wish all entrants the best of luck! 🚀
+
+Keep Supporting! ❤️
+
 ## \*ENDED\* **Lendefi token holder 20,000 LDFI Prize Pool!**
 
 Lendefi is excited to announce we are giving away **20,000 LDFI** tokens to lucky winners in our new prize pool. A total of **143** winners will be drawn and there are **2** chances for each token holder to win. 
