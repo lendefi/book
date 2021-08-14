@@ -18,27 +18,27 @@ In order to deliver a Protocol that can perform transactions of all sizes at an 
   
 The move to BSC was initiated with Lendefi's Governance token LDFI. See [ETH to BSC Bridge](https://app.gitbook.com/@lendefi/s/lendefi-finance/~/drafts/-MYdkbmtt5w8M5uQiHl5/how-to-guides/eth-to-bsc-bridge).
 
-## How do undercollateralized loans work?
+## How do undercollateralized loans for leveraged trading work?
 
 **Example:**
 
-Borrower deposits $50,000 BUSD as collateral into the Protocol.
+The trader deposits $50,000 BUSD as collateral into the Protocol.
 
-Borrower loans $50,000 BUSD from the lending pool.
+The trader loans $50,000 BUSD from the lending pool.
 
 Borrower invests into $100,000 worth of BTCB. In this step, the Protocol initiates a trade on PancakeSwap to change $100,000 \(minus loan fee of X%\) BUSD into BTCB. The BTCB is then escrowed by the Protocol.
 
 **Example Case A**
 
-The price of BTC has now decreased by 40% \($60,000 total collateral\) and a  liquidation event is triggered.
+The price of BTC has now decreased by 40% \($60,000 total collateral\) and a liquidation event is triggered.
 
-The BTCB is swapped on PancakeSwap into $60,000 BUSD. $50,000 is sent to the lending pool and $10,000 \(minus a liquidation fee of X%\) is sent to the borrower.
+The BTCB is swapped on PancakeSwap into $60,000 BUSD. $50,000 is sent to the lending pool and $10,000 \(minus a liquidation fee of X%\) is sent to the trader.
 
 **Example Case B**
 
-The price of BTC has now increased by 50% \($150,000 total collateral\) and the Borrower closes out the loan.
+The price of BTC has now increased by 50% \($150,000 total collateral\) and the trader closes out the loan.
 
-The BTCB is swapped on PancakeSwap into $150,000 BUSD. $50,000 is sent to the lending pool and $100,000 \(minus loan fee of X%\) is sent to the borrower.
+The BTCB is swapped on PancakeSwap into $150,000 BUSD. $50,000 is sent to the lending pool and $100,000 \(minus loan fee of X%\) is sent to the trader.
 
 
 
