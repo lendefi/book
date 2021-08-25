@@ -26,6 +26,7 @@
 * [Where to buy LDFI](where-to-buy-ldif.md)
 * [Telegram](https://telegram.lendefi.finance)
 * [Medium](https://lendefi.medium.com/)
+* [Github](https://github.com/lendefi)
 * [Whitepaper](https://whitepaper.lendefi.finance)
 * [Linktree](https://linktr.ee/lendefi)
 * [Support](support/README.md)
