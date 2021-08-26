@@ -22,7 +22,6 @@
 * [Audits](audits.md)
 * [How-To Guides](how-to-guides/README.md)
   * [Create BSC Metamask Wallet](how-to-guides/create-bsc-metamask-wallet.md)
-  * [ETH to BSC Bridge](how-to-guides/eth-to-bsc-bridge.md)
 * [Where to buy LDFI](where-to-buy-ldif.md)
 * [Telegram](https://telegram.lendefi.finance)
 * [Medium](https://lendefi.medium.com/)

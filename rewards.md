@@ -54,7 +54,7 @@ Keep Supporting ❤️ If you need help, ask [here](https://telegram.lendefi.fin
 
 In celebration of moving to the Binance Smart Chain, Lendefi would like to reward ERC-20 Token Holder’s that cross the Bridge.
 
-Please follow these [instructions](how-to-guides/eth-to-bsc-bridge.md); ✅ Buy on [Uniswap](https://info.uniswap.org/token/0x5479d565e549f3ecdbde4ab836d02d86e0d6a8c7)
+Please follow these [instructions](); ✅ Buy on [Uniswap](https://info.uniswap.org/token/0x5479d565e549f3ecdbde4ab836d02d86e0d6a8c7)
 
 It’s simple, between the 5th and 11th of April at 23:59 UTC! 🚀
 
