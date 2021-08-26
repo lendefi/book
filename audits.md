@@ -2,13 +2,9 @@
 
 ## LDFI BEP20
 
-**LDFI BEP20:**  [Hot Cross Audits](https://github.com/hotcrosscom/audits)
-
-## LDFI ERC20
-
-**LDFI ERC20:** [Johnwick](https://github.com/lendefi/audits/blob/79a6786db7dc33167e8085a2383ac0437ad42596/Lendefi%20Token%20%28LDFI%29%20Audit%20Report.pdf)  
-  
-**LDFI Vesting:** [Johnwick](https://github.com/lendefi/audits/blob/79a6786db7dc33167e8085a2383ac0437ad42596/LendefiTokenVesting%20Audit%20Report.pdf)
+[LDFI Token audit](https://github.com/chainsulting/Smart-Contract-Security-Audits/blob/b8b2830b06d7db3211e1d320904ed291c93519ae/Lendefi/02_Smart%20Contract%20Audit_Lendefi_Token.pdf)  
+[LDFI Vesting contract audit](https://github.com/chainsulting/Smart-Contract-Security-Audits/blob/b8b2830b06d7db3211e1d320904ed291c93519ae/Lendefi/02_Smart%20Contract%20Audit_Lendefi_Vesting.pdf)  
+[LDFI LP Locking contract audit](https://github.com/chainsulting/Smart-Contract-Security-Audits/blob/b8b2830b06d7db3211e1d320904ed291c93519ae/Lendefi/02_Smart%20Contract%20Audit_Lendefi_LP_Lockup.pdf)
 
   
 
