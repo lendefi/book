@@ -51,7 +51,7 @@ Let's go to BSC! 🚀🚀🚀
   
 Click the "Add Token" button, under "Custom Token".
 
-Enter the Token Contract Address:  **0xAe1119B918f971F232FED504D48604D5FeF7277F**  
+Enter the Token Contract Address:  **0x8F1E60D84182db487aC235acC65825e50b5477a1**  
   
 Now press "Next" then "Add Tokens".  
   
