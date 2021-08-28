@@ -6,5 +6,7 @@
   
 Import:   
   
-0x8F1E60D84182db487aC235acC65825e50b5477a1
+0x8F1E60D84182db487aC235acC65825e50b5477a1  
+  
+3–5% slippage recommended
 
