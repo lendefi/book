@@ -36,8 +36,10 @@ Vesting Contract
 [0xc598d81c62f6391b2412d02a78fa3f3affe58b52](https://bscscan.com/address/0xc598d81c62f6391b2412d02a78fa3f3affe58b52)
 
 **Excluded Addresses from Rewards**  
-Lendefi Protocol’s Multi-sig wallet  
-[0x30DD781D2143fE32C36E894a049898f268b82092](https://bscscan.com/address/0x30DD781D2143fE32C36E894a049898f268b82092)
+Lendefi Protocol’s projects wallet's  
+[0x30DD781D2143fE32C36E894a049898f268b82092](https://bscscan.com/address/0x30DD781D2143fE32C36E894a049898f268b82092)  
+[0x0009f605338D882A4720b92BBd831B2E64349B7A](https://bscscan.com/address/0x0009f605338D882A4720b92BBd831B2E64349B7A)  
+[0x417c247503f1Ab27cd93715C61fAf80280c1DC55](https://bscscan.com/address/0x417c247503f1Ab27cd93715C61fAf80280c1DC55)
 
 Vesting Contract  
 [0xc598d81c62f6391b2412d02a78fa3f3affe58b52](https://bscscan.com/address/0xc598d81c62f6391b2412d02a78fa3f3affe58b52)
