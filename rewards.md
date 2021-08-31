@@ -1,6 +1,19 @@
 # Rewards
 
-## **Lendefi $2,500 Testnet Giveaway**
+## **Lendefi $2,500 Token Upgrade Giveaway**
+
+To celebrate our Token Upgrade 🥳
+
+Lendefi is giving away $2,500 worth of $LDFI tokens to 250 lucky winners \($10 each\).🏆
+
+You can visit our giveaway page [here](https://gleam.io/euUpU/lendefi-token-upgrade-giveaway) 🎯  
+Giveaway [Medium article](https://medium.com/lendefi/lendefis-token-upgrade-giveaway-78c6de6e3abe)   
+  
+****We wish all entrants the best of luck! 🚀
+
+Keep Supporting! ❤️
+
+## **\*COMPLETED\* Lendefi $2,500 Testnet Giveaway**
 
 Lendefi is pleased to announce that we have created a giveaway to celebrate the launch of our testnet. Lendefi is giving away $2,500 in LDFI! 📣
 
