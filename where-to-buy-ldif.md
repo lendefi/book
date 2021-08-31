@@ -19,5 +19,9 @@ Lendefi
 
 ![](.gitbook/assets/image%20%289%29.png)
 
+  
+Confirm correct token is selected via BSCScan url   
+[https://bscscan.com/address/0x8F1E60D84182db487aC235acC65825e50b5477a1](https://bscscan.com/address/0x8F1E60D84182db487aC235acC65825e50b5477a1)
 
+![](.gitbook/assets/image%20%2816%29.png)
 
